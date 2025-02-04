@@ -8,6 +8,7 @@
 [.NET最新版](https://scratch.mit.edu/projects/1128886666/)へアクセスし、「中を見る」をおして`master`, `dotKit`の二つをバックパックに入れます。
 
 それ以外で現在サポートされているバージョンは以下のとおりです。
+
 | VERSION | SUPPORT |
 | ------- | ------- |
 |   [BETA](https://scratch.mit.edu/projects/1128886666/)  | ◯ : 短期的なサポート |
