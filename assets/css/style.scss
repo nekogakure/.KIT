@@ -1,13 +1,17 @@
----
----
-
 @import "{{ site.theme }}";
-.page-header{
-    background-image:linear-gradient(to right, #625793 0%, #d55d64 35%, #e49129 65%, #c0671c 100%); 
-};
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6{
-    color:#625793
+.page-header {
+    background-image: linear-gradient(to right, #4B0082 0%, #9370DB 35%, #8A2BE2 65%, #6A0DAD 100%);
 }
+
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
+    color: #4B0082;
+}
+
 .project-name a,.project-name a:hover,.project-name a:visited{
     color: inherit;
 }
