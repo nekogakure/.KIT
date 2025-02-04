@@ -5,4 +5,12 @@
 開発は@sei6seiおよび有識者によって進められています。
 
 ## how to use
-[.NET最新版](https://scratch.mit.edu/projects/1128886666/)へアクセスし、「中を見る」をおして`master`, `dotKit`の二つをバックパックに入れます
+[.NET最新版](https://scratch.mit.edu/projects/1128886666/)へアクセスし、「中を見る」をおして`master`, `dotKit`の二つをバックパックに入れます。
+
+現在サポートされているバージョンは以下のとおりです。
+| VERSION | SUPPORT |
+| ------- | ------- |
+|   BETA  | ◯ : 短期的なサポート |
+
+## Contribution
+プロジェクトをリミックスして公開してください。ただし、過去のバージョン（
