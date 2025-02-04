@@ -1,2 +1,1 @@
-# .KIT
-Scratchのライブラリ.KITのドキュメント
+# .KIT for Scratch
