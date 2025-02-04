@@ -1,2 +1,2 @@
 # .KIT for Scratch
-[](https://github.com/nekogakure/.KIT/blob/main/src/favicon.svg)
+![.KITicon](https://github.com/nekogakure/.KIT/blob/main/src/favicon.svg)
